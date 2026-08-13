@@ -10,7 +10,7 @@
 
 # About
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,723 | 🐛 6 | 📅 2026-08-10.
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,724 | 🐛 6 | 📅 2026-08-10.
 
 ## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade\&utm_medium=spon\&utm_content=header)
 
@@ -98,7 +98,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Charts
 
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,197 | 🐛 2,191 | 🌐 Java | 📅 2025-06-05 - An Android chart and graph library supporting scaling and dragging by gesture.
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,198 | 🐛 2,191 | 🌐 Java | 📅 2025-06-05 - An Android chart and graph library supporting scaling and dragging by gesture.
 * [HelloCharts](https://github.com/lecho/hellocharts-android) ⭐ 7,583 | 🐛 292 | 🌐 Java | 📅 2021-06-01 - Chart and graph library with support for scaling, scrolling and animations.
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) ⭐ 5,103 | 🐛 35 | 🌐 Kotlin | 📅 2025-10-04 - Chart library with good motion capabilities.
 * [AnyChart](https://github.com/AnyChart/AnyChart-Android) ⭐ 2,372 | 🐛 115 | 🌐 Java | 📅 2026-03-13 - Data visualization library, Interactive charts.
@@ -130,7 +130,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Game Development
 
-* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 25,294 | 🐛 333 | 🌐 Java | 📅 2026-08-12
+* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 25,295 | 🐛 333 | 🌐 Java | 📅 2026-08-12
 * [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,416 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine
 * [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) ⭐ 769 | 🐛 6 | 🌐 Java | 📅 2026-04-28 - An easy open source Android Native Game FrameWork.
 * [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
@@ -271,7 +271,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### JSON
 
 * [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 340 | 🌐 Java | 📅 2026-08-11 - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-* [Moshi](https://github.com/square/moshi) ⭐ 10,151 | 🐛 112 | 🌐 Kotlin | 📅 2026-08-11 - A modern JSON library for Android and Java.
+* [Moshi](https://github.com/square/moshi) ⭐ 10,153 | 🐛 112 | 🌐 Kotlin | 📅 2026-08-11 - A modern JSON library for Android and Java.
 * [Jackson JSON Processor](https://github.com/FasterXML/jackson) ⭐ 9,796 | 🐛 0 | 📅 2026-07-17 - High-performance JSON processor.
 
 ### Crash monitoring
@@ -286,7 +286,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Networking
 
-* [OkHttp](https://github.com/square/okhttp) ⭐ 47,040 | 🐛 133 | 🌐 Kotlin | 📅 2026-08-12 - An HTTP+SPDY client for Android and Java applications.
+* [OkHttp](https://github.com/square/okhttp) ⭐ 47,041 | 🐛 133 | 🌐 Kotlin | 📅 2026-08-12 - An HTTP+SPDY client for Android and Java applications.
 * [Ion](https://github.com/koush/ion) ⭐ 6,247 | 🐛 337 | 🌐 Java | 📅 2026-08-11 - Good networking library for android.
 * [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) ⭐ 5,909 | 🐛 234 | 🌐 Java | 📅 2026-02-05 - A Complete Fast Android Networking Library that also support HTTP/2.
 * [RoboSpice](https://github.com/stephanenicolas/robospice) ⚠️ Archived - Library that makes writing asynchronous network requests easy.
@@ -365,7 +365,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 * [LeakCanary](https://github.com/square/leakcanary) ⭐ 29,968 | 🐛 128 | 🌐 Kotlin | 📅 2026-08-11 - Catch memory leaks as they occur.
 * [Otto](https://github.com/square/otto) ⚠️ Archived - Event Bus for Android.
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) ⭐ 1,781 | 🐛 10 | 🌐 Java | 📅 2024-07-12 - Get device information in a super easy way.
-* [Weak handler](https://github.com/badoo/android-weak-handler) ⭐ 1,533 | 🐛 7 | 🌐 Java | 📅 2026-06-10 - Memory safer implementation of android.os.Handler.
+* [Weak handler](https://github.com/badoo/android-weak-handler) ⭐ 1,533 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Memory safer implementation of android.os.Handler.
 * [Androl4b](https://github.com/sh4hin/Androl4b) ⭐ 1,167 | 🐛 5 | 📅 2023-05-31 - A vm for assessing android applications.
 * [DroidMVP](https://github.com/andrzejchm/DroidMVP) ⭐ 224 | 🐛 1 | 🌐 Java | 📅 2018-02-03 - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 * [Validator](https://github.com/anderscheow/Validator) ⭐ 129 | 🐛 1 | 🌐 Kotlin | 📅 2021-10-10 - An utilities class to validate text inside TextInputLayout.
@@ -397,7 +397,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Chat & Messaging
 
 * [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) ⭐ 203 | 🐛 0 | 🌐 Java | 📅 2026-07-23 - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
-* [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) ⭐ 80 | 🐛 1 | 🌐 Java | 📅 2026-08-12 - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
+* [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) ⭐ 80 | 🐛 0 | 🌐 Java | 📅 2026-08-13 - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
 * [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2019-11-29 - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
 * [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
 * [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
@@ -493,7 +493,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Code examples
 
-* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,786 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-12 - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,787 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-12 - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 * [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) ⭐ 2,435 | 🐛 5 | 🌐 Kotlin | 📅 2021-08-23 - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
 * [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) ⭐ 549 | 🐛 3 | 🌐 Kotlin | 📅 2023-06-11 - Example about MVVM (Model View ViewModel) Pattern.
 * [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) ⭐ 129 | 🐛 1 | 🌐 Java | 📅 2021-01-28 - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
@@ -526,9 +526,9 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### HTML, CSS and Javascript
 
-* [React Native](https://github.com/facebook/react-native) ⭐ 126,339 | 🐛 1,050 | 🌐 C++ | 📅 2026-08-13 - A framework for building native apps with React by Facebook.
-* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,298 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-12 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
-* [Apache Cordova](https://github.com/apache/cordova-android) ⭐ 3,789 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-11 - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
+* [React Native](https://github.com/facebook/react-native) ⭐ 126,341 | 🐛 1,050 | 🌐 C++ | 📅 2026-08-13 - A framework for building native apps with React by Facebook.
+* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,299 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-12 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
+* [Apache Cordova](https://github.com/apache/cordova-android) ⭐ 3,789 | 🐛 98 | 🌐 JavaScript | 📅 2026-08-13 - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 * [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 * [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
 * [NativeScript](https://www.nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.

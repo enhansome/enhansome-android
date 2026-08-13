@@ -24,7 +24,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38197
+            "stars": 38198
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-08-12T20:39:21Z",
             "owner": "libgdx",
             "repo": "libgdx",
-            "stars": 25294
+            "stars": 25295
           }
         },
         {
@@ -1486,7 +1486,7 @@
             "last_commit": "2026-08-11T23:37:30Z",
             "owner": "square",
             "repo": "moshi",
-            "stars": 10151
+            "stars": 10153
           }
         },
         {
@@ -1520,7 +1520,7 @@
             "last_commit": "2026-08-12T23:34:59Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47040
+            "stars": 47041
           }
         },
         {
@@ -2077,7 +2077,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-10T07:42:08Z",
+            "last_commit": "2026-08-13T06:29:29Z",
             "owner": "badoo",
             "repo": "android-weak-handler",
             "stars": 1533
@@ -2355,7 +2355,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T09:55:36Z",
+            "last_commit": "2026-08-13T06:53:49Z",
             "owner": "Kommunicate-io",
             "repo": "Kommunicate-Android-Chat-SDK",
             "stars": 80
@@ -3064,7 +3064,7 @@
             "last_commit": "2026-08-12T23:40:24Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45786
+            "stars": 45787
           }
         },
         {
@@ -3145,7 +3145,7 @@
             "last_commit": "2026-08-13T02:45:59Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126339
+            "stars": 126341
           }
         },
         {
@@ -3159,7 +3159,7 @@
             "last_commit": "2026-08-12T17:05:57Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16298
+            "stars": 16299
           }
         },
         {
@@ -3170,7 +3170,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T08:00:25Z",
+            "last_commit": "2026-08-13T07:20:32Z",
             "owner": "apache",
             "repo": "cordova-android",
             "stars": 3789
@@ -3372,7 +3372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:57.530Z",
+    "last_updated": "2026-08-13T07:53:09.748Z",
     "original_repository": "JStumpp/awesome-android",
     "original_repository_sha": "c9598e7541686b3705df7cc177a845d6093685c2",
     "enhanced_repository": "enhansome/enhansome-android",
