@@ -19,7 +19,7 @@
                     "last_commit": "2025-06-05T07:06:39Z",
                     "owner": "PhilJay",
                     "repo": "MPAndroidChart",
-                    "stars": 38191
+                    "stars": 38192
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-20T13:22:55Z",
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17703
+                    "stars": 17702
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2022-05-31T13:16:38Z",
                     "owner": "androidannotations",
                     "repo": "androidannotations",
-                    "stars": 10978
+                    "stars": 10977
                   }
                 },
                 {
@@ -235,7 +235,7 @@
                     "last_commit": "2026-08-12T20:39:21Z",
                     "owner": "libgdx",
                     "repo": "libgdx",
-                    "stars": 25320
+                    "stars": 25325
                   }
                 },
                 {
@@ -1023,7 +1023,7 @@
                         "last_commit": "2021-08-18T23:15:07Z",
                         "owner": "daimajia",
                         "repo": "AndroidViewAnimations",
-                        "stars": 12445
+                        "stars": 12444
                       }
                     },
                     {
@@ -1053,7 +1053,7 @@
                         "last_commit": "2022-12-03T07:25:18Z",
                         "owner": "TakuSemba",
                         "repo": "Spotlight",
-                        "stars": 3668
+                        "stars": 3667
                       }
                     },
                     {
@@ -1135,7 +1135,7 @@
                         "last_commit": "2026-03-05T07:33:10Z",
                         "owner": "zetbaitsu",
                         "repo": "Compressor",
-                        "stars": 7227
+                        "stars": 7228
                       }
                     },
                     {
@@ -1344,7 +1344,7 @@
                         "last_commit": "2026-08-20T17:51:21Z",
                         "owner": "bumptech",
                         "repo": "glide",
-                        "stars": 35024
+                        "stars": 35025
                       }
                     },
                     {
@@ -1359,7 +1359,7 @@
                         "last_commit": "2024-11-06T03:35:18Z",
                         "owner": "square",
                         "repo": "picasso",
-                        "stars": 18796
+                        "stars": 18795
                       }
                     },
                     {
@@ -1374,7 +1374,7 @@
                         "last_commit": "2026-08-20T21:14:43Z",
                         "owner": "facebook",
                         "repo": "fresco",
-                        "stars": 17158
+                        "stars": 17159
                       }
                     },
                     {
@@ -1401,7 +1401,7 @@
                         "archived": false,
                         "id": 201684760,
                         "language": "Kotlin",
-                        "last_commit": "2026-08-21T15:12:00Z",
+                        "last_commit": "2026-08-22T21:38:05Z",
                         "owner": "coil-kt",
                         "repo": "coil",
                         "stars": 11878
@@ -1478,7 +1478,7 @@
                         "last_commit": "2024-08-13T00:53:33Z",
                         "owner": "bilibili",
                         "repo": "ijkplayer",
-                        "stars": 33196
+                        "stars": 33195
                       }
                     },
                     {
@@ -1572,7 +1572,7 @@
                     "last_commit": "2026-08-14T19:50:04Z",
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24228
+                    "stars": 24227
                   }
                 },
                 {
@@ -1602,7 +1602,7 @@
                     "last_commit": "2026-07-17T03:05:02Z",
                     "owner": "FasterXML",
                     "repo": "jackson",
-                    "stars": 9801
+                    "stars": 9800
                   }
                 }
               ],
@@ -1621,7 +1621,7 @@
                     "archived": false,
                     "id": 5152285,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-21T16:19:02Z",
+                    "last_commit": "2026-08-23T02:23:05Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
                     "stars": 47049
@@ -1900,7 +1900,7 @@
                     "last_commit": "2025-09-15T18:19:00Z",
                     "owner": "realm",
                     "repo": "realm-java",
-                    "stars": 11463
+                    "stars": 11462
                   }
                 },
                 {
@@ -1942,7 +1942,7 @@
                     "archived": false,
                     "id": 88777477,
                     "language": "Java",
-                    "last_commit": "2026-08-17T18:45:57Z",
+                    "last_commit": "2026-08-22T18:07:09Z",
                     "owner": "nitrite",
                     "repo": "nitrite-java",
                     "stars": 913
@@ -1989,7 +1989,7 @@
                         "archived": false,
                         "id": 24161015,
                         "language": "Kotlin",
-                        "last_commit": "2022-03-15T02:19:57Z",
+                        "last_commit": "2026-08-23T04:03:13Z",
                         "owner": "agrosner",
                         "repo": "DBFlow",
                         "stars": 4846
@@ -2183,7 +2183,7 @@
                     "last_commit": "2026-08-21T16:35:20Z",
                     "owner": "square",
                     "repo": "leakcanary",
-                    "stars": 29978
+                    "stars": 29980
                   }
                 },
                 {
@@ -2415,7 +2415,7 @@
                     "last_commit": "2024-12-18T09:31:14Z",
                     "owner": "mzlogin",
                     "repo": "awesome-adb",
-                    "stars": 12427
+                    "stars": 12428
                   }
                 },
                 {
@@ -2646,7 +2646,7 @@
                     "last_commit": "2020-12-14T08:09:26Z",
                     "owner": "eggheadgames",
                     "repo": "Siren",
-                    "stars": 136
+                    "stars": 135
                   }
                 },
                 {
@@ -2735,7 +2735,7 @@
                     "last_commit": "2023-11-10T04:44:43Z",
                     "owner": "permissions-dispatcher",
                     "repo": "PermissionsDispatcher",
-                    "stars": 11159
+                    "stars": 11158
                   }
                 },
                 {
@@ -2832,7 +2832,7 @@
                     "last_commit": "2026-08-21T16:00:37Z",
                     "owner": "google",
                     "repo": "guava",
-                    "stars": 51889
+                    "stars": 51890
                   }
                 },
                 {
@@ -2847,7 +2847,7 @@
                     "last_commit": "2026-08-21T06:15:16Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48205
+                    "stars": 48204
                   }
                 },
                 {
@@ -2862,7 +2862,7 @@
                     "last_commit": "2026-08-21T18:42:21Z",
                     "owner": "zxing",
                     "repo": "zxing",
-                    "stars": 34072
+                    "stars": 34074
                   }
                 },
                 {
@@ -2952,7 +2952,7 @@
                     "last_commit": "2026-08-21T15:54:00Z",
                     "owner": "mikepenz",
                     "repo": "AboutLibraries",
-                    "stars": 4413
+                    "stars": 4414
                   }
                 },
                 {
@@ -3039,7 +3039,7 @@
                     "archived": false,
                     "id": 366452638,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-17T12:21:46Z",
+                    "last_commit": "2026-08-23T04:06:35Z",
                     "owner": "cashapp",
                     "repo": "licensee",
                     "stars": 753
@@ -3278,10 +3278,10 @@
                     "archived": false,
                     "id": 51148780,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-12T23:40:24Z",
+                    "last_commit": "2026-08-22T12:00:53Z",
                     "owner": "android",
                     "repo": "architecture-samples",
-                    "stars": 45798
+                    "stars": 45795
                   }
                 },
                 {
@@ -3367,10 +3367,10 @@
                     "archived": false,
                     "id": 29028775,
                     "language": "C++",
-                    "last_commit": "2026-08-22T06:41:38Z",
+                    "last_commit": "2026-08-22T21:10:22Z",
                     "owner": "react",
                     "repo": "react-native",
-                    "stars": 126386
+                    "stars": 126393
                   }
                 },
                 {
@@ -3385,7 +3385,7 @@
                     "last_commit": "2026-08-20T19:16:42Z",
                     "owner": "ionic-team",
                     "repo": "capacitor",
-                    "stars": 16365
+                    "stars": 16370
                   }
                 },
                 {
@@ -3598,7 +3598,7 @@
                     "archived": false,
                     "id": 1074471029,
                     "language": "HTML",
-                    "last_commit": "2026-08-18T02:38:21Z",
+                    "last_commit": "2026-08-23T05:23:49Z",
                     "owner": "bodenberg",
                     "repo": "appdimens",
                     "stars": 14
@@ -3655,7 +3655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:58:58.771Z",
+    "last_updated": "2026-08-23T07:00:58.391Z",
     "original_repository": "JStumpp/awesome-android",
     "original_repository_id": 21780562,
     "original_repository_sha": "c9598e7541686b3705df7cc177a845d6093685c2",
