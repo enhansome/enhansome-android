@@ -19,7 +19,7 @@
                     "last_commit": "2025-06-05T07:06:39Z",
                     "owner": "PhilJay",
                     "repo": "MPAndroidChart",
-                    "stars": 38192
+                    "stars": 38193
                   }
                 },
                 {
@@ -116,6 +116,28 @@
               "description": null,
               "node_type": "group",
               "title": "Charts"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Anvil",
+                  "description": "A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29293245,
+                    "language": "Java",
+                    "last_commit": "2021-05-29T00:26:13Z",
+                    "owner": "anvil-ui",
+                    "repo": "anvil",
+                    "stars": 1436
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data binding"
             },
             {
               "children": [
@@ -235,7 +257,7 @@
                     "last_commit": "2026-08-23T07:59:23Z",
                     "owner": "libgdx",
                     "repo": "libgdx",
-                    "stars": 25328
+                    "stars": 25330
                   }
                 },
                 {
@@ -886,6 +908,50 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "NoPaginate",
+                      "description": "Simple Android pagination library",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 100255414,
+                        "language": "Java",
+                        "last_commit": "2022-01-12T15:16:41Z",
+                        "owner": "NoNews",
+                        "repo": "NoPaginate",
+                        "stars": 180
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Paginate"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "FadingActionBar",
+                      "description": "Fading action bar effect that can be seen in the new Play Music app.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 10283400,
+                        "language": "Java",
+                        "last_commit": "2018-05-05T22:06:23Z",
+                        "owner": "ManuelPeinado",
+                        "repo": "FadingActionBar",
+                        "stars": 2835
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "ActionBar"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "MaterialDrawer",
                       "description": "Simple take on a material design navigation drawer.",
                       "children": [],
@@ -1334,6 +1400,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "Material Dots Indicators",
+                      "description": "Three Material Dots Indicators styles for View Pagers.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 96710053,
+                        "language": "Kotlin",
+                        "last_commit": "2026-08-10T14:50:51Z",
+                        "owner": "tommybuonomo",
+                        "repo": "dotsindicator",
+                        "stars": 3605
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "View Pagers"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "Glide",
                       "description": "An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.",
                       "children": [],
@@ -1344,7 +1432,7 @@
                         "last_commit": "2026-08-20T17:51:21Z",
                         "owner": "bumptech",
                         "repo": "glide",
-                        "stars": 35026
+                        "stars": 35025
                       }
                     },
                     {
@@ -1371,7 +1459,7 @@
                         "archived": false,
                         "id": 31533997,
                         "language": "Kotlin",
-                        "last_commit": "2026-08-20T21:14:43Z",
+                        "last_commit": "2026-08-24T11:07:54Z",
                         "owner": "facebook",
                         "repo": "fresco",
                         "stars": 17159
@@ -1404,7 +1492,7 @@
                         "last_commit": "2026-08-24T05:55:05Z",
                         "owner": "coil-kt",
                         "repo": "coil",
-                        "stars": 11878
+                        "stars": 11881
                       }
                     },
                     {
@@ -1478,7 +1566,7 @@
                         "last_commit": "2024-08-13T00:53:33Z",
                         "owner": "bilibili",
                         "repo": "ijkplayer",
-                        "stars": 33195
+                        "stars": 33196
                       }
                     },
                     {
@@ -1552,6 +1640,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Camera"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Convalida",
+                      "description": "A simple and annotation-based way to validate your input fields.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 93466587,
+                        "language": "Java",
+                        "last_commit": "2019-10-31T00:22:01Z",
+                        "owner": "wellingtoncosta",
+                        "repo": "convalida",
+                        "stars": 205
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Field Validation"
                 }
               ],
               "description": null,
@@ -1609,6 +1719,28 @@
               "description": null,
               "node_type": "group",
               "title": "JSON"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Catcho",
+                  "description": "No Force Close any more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56382379,
+                    "language": "Java",
+                    "last_commit": "2017-04-30T11:58:42Z",
+                    "owner": "alhazmy13",
+                    "repo": "Catcho",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Crash monitoring"
             },
             {
               "children": [
@@ -1781,7 +1913,7 @@
                     "last_commit": "2026-08-24T06:01:10Z",
                     "owner": "JakeWharton",
                     "repo": "timber",
-                    "stars": 10848
+                    "stars": 10847
                   }
                 },
                 {
@@ -2069,6 +2201,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Spring for Android - Rest Template",
+                  "description": "A Rest Client for Android.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1810398,
+                    "language": "Java",
+                    "last_commit": "2022-04-04T17:46:44Z",
+                    "owner": "spring-attic",
+                    "repo": "spring-android",
+                    "stars": 704
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "REST"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Robotium",
                   "description": "Test automation framework for black-box UI tests.",
                   "children": [],
@@ -2180,10 +2334,10 @@
                     "archived": false,
                     "id": 34824499,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-21T16:35:20Z",
+                    "last_commit": "2026-08-24T10:00:10Z",
                     "owner": "square",
                     "repo": "leakcanary",
-                    "stars": 29983
+                    "stars": 29984
                   }
                 },
                 {
@@ -2415,7 +2569,7 @@
                     "last_commit": "2024-12-18T09:31:14Z",
                     "owner": "mzlogin",
                     "repo": "awesome-adb",
-                    "stars": 12429
+                    "stars": 12430
                   }
                 },
                 {
@@ -2430,7 +2584,7 @@
                     "last_commit": "2026-02-05T09:09:32Z",
                     "owner": "amitshekhariitbhu",
                     "repo": "Android-Debug-Database",
-                    "stars": 8677
+                    "stars": 8678
                   }
                 },
                 {
@@ -2497,6 +2651,28 @@
               "description": null,
               "node_type": "group",
               "title": "Debugging Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SmartGattLib",
+                  "description": "Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11074870,
+                    "language": "Java",
+                    "last_commit": "2026-07-02T15:06:14Z",
+                    "owner": "movisens",
+                    "repo": "SmartGattLib",
+                    "stars": 286
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Wireless"
             },
             {
               "children": [
@@ -2683,7 +2859,7 @@
                     "last_commit": "2025-08-22T03:29:53Z",
                     "owner": "JakeWharton",
                     "repo": "ThreeTenABP",
-                    "stars": 3543
+                    "stars": 3542
                   }
                 },
                 {
@@ -2859,10 +3035,10 @@
                     "archived": false,
                     "id": 2562751,
                     "language": "Java",
-                    "last_commit": "2026-08-24T06:53:04Z",
+                    "last_commit": "2026-08-24T12:12:03Z",
                     "owner": "zxing",
                     "repo": "zxing",
-                    "stars": 34076
+                    "stars": 34077
                   }
                 },
                 {
@@ -2937,7 +3113,7 @@
                     "last_commit": "2023-07-24T15:03:12Z",
                     "owner": "evant",
                     "repo": "gradle-retrolambda",
-                    "stars": 5253
+                    "stars": 5254
                   }
                 },
                 {
@@ -2949,7 +3125,7 @@
                     "archived": false,
                     "id": 19025014,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T23:00:56Z",
+                    "last_commit": "2026-08-24T12:17:26Z",
                     "owner": "mikepenz",
                     "repo": "AboutLibraries",
                     "stars": 4415
@@ -3039,7 +3215,7 @@
                     "archived": false,
                     "id": 366452638,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T04:06:35Z",
+                    "last_commit": "2026-08-24T09:51:09Z",
                     "owner": "cashapp",
                     "repo": "licensee",
                     "stars": 753
@@ -3278,7 +3454,7 @@
                     "archived": false,
                     "id": 51148780,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T12:00:53Z",
+                    "last_commit": "2026-08-24T07:34:23Z",
                     "owner": "android",
                     "repo": "architecture-samples",
                     "stars": 45801
@@ -3348,6 +3524,28 @@
               "description": null,
               "node_type": "group",
               "title": "Code examples"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The Context",
+                  "description": "a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51116846,
+                    "language": null,
+                    "last_commit": "2019-12-28T13:03:18Z",
+                    "owner": "artem-zinnatullin",
+                    "repo": "TheContext-Podcast",
+                    "stars": 622
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Podcasts"
             }
           ],
           "description": null,
@@ -3367,10 +3565,10 @@
                     "archived": false,
                     "id": 29028775,
                     "language": "C++",
-                    "last_commit": "2026-08-22T21:10:22Z",
+                    "last_commit": "2026-08-24T13:45:03Z",
                     "owner": "react",
                     "repo": "react-native",
-                    "stars": 126401
+                    "stars": 126405
                   }
                 },
                 {
@@ -3385,7 +3583,7 @@
                     "last_commit": "2026-08-20T19:16:42Z",
                     "owner": "ionic-team",
                     "repo": "capacitor",
-                    "stars": 16375
+                    "stars": 16380
                   }
                 },
                 {
@@ -3400,7 +3598,7 @@
                     "last_commit": "2026-08-21T13:07:25Z",
                     "owner": "apache",
                     "repo": "cordova-android",
-                    "stars": 3787
+                    "stars": 3786
                   }
                 }
               ],
@@ -3655,7 +3853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:20:24.608Z",
+    "last_updated": "2026-08-24T13:51:13.437Z",
     "original_repository": "JStumpp/awesome-android",
     "original_repository_id": 21780562,
     "original_repository_sha": "c9598e7541686b3705df7cc177a845d6093685c2",
