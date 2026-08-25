@@ -150,7 +150,7 @@
                     "archived": false,
                     "id": 7968417,
                     "language": "Java",
-                    "last_commit": "2026-08-23T20:05:20Z",
+                    "last_commit": "2026-08-25T07:05:21Z",
                     "owner": "google",
                     "repo": "dagger",
                     "stars": 17702
@@ -959,7 +959,7 @@
                         "archived": false,
                         "id": 30120110,
                         "language": "Kotlin",
-                        "last_commit": "2026-08-24T21:06:25Z",
+                        "last_commit": "2026-08-25T06:21:59Z",
                         "owner": "mikepenz",
                         "repo": "MaterialDrawer",
                         "stars": 11646
@@ -1410,7 +1410,7 @@
                         "last_commit": "2026-08-10T14:50:51Z",
                         "owner": "tommybuonomo",
                         "repo": "dotsindicator",
-                        "stars": 3605
+                        "stars": 3604
                       }
                     }
                   ],
@@ -1489,7 +1489,7 @@
                         "archived": false,
                         "id": 201684760,
                         "language": "Kotlin",
-                        "last_commit": "2026-08-25T05:35:07Z",
+                        "last_commit": "2026-08-25T05:57:31Z",
                         "owner": "coil-kt",
                         "repo": "coil",
                         "stars": 11881
@@ -1566,7 +1566,7 @@
                         "last_commit": "2024-08-13T00:53:33Z",
                         "owner": "bilibili",
                         "repo": "ijkplayer",
-                        "stars": 33197
+                        "stars": 33198
                       }
                     },
                     {
@@ -1682,7 +1682,7 @@
                     "last_commit": "2026-08-14T19:50:04Z",
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24226
+                    "stars": 24225
                   }
                 },
                 {
@@ -1756,7 +1756,7 @@
                     "last_commit": "2026-08-23T02:23:05Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47050
+                    "stars": 47049
                   }
                 },
                 {
@@ -2334,7 +2334,7 @@
                     "archived": false,
                     "id": 34824499,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T10:00:10Z",
+                    "last_commit": "2026-08-25T06:26:17Z",
                     "owner": "square",
                     "repo": "leakcanary",
                     "stars": 29985
@@ -2599,7 +2599,7 @@
                     "last_commit": "2024-05-10T13:57:53Z",
                     "owner": "JakeWharton",
                     "repo": "pidcat",
-                    "stars": 4950
+                    "stars": 4951
                   }
                 },
                 {
@@ -3008,7 +3008,7 @@
                     "last_commit": "2026-08-24T21:31:37Z",
                     "owner": "google",
                     "repo": "guava",
-                    "stars": 51890
+                    "stars": 51887
                   }
                 },
                 {
@@ -3023,7 +3023,7 @@
                     "last_commit": "2026-08-24T05:34:22Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48205
+                    "stars": 48204
                   }
                 },
                 {
@@ -3853,7 +3853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:49.385Z",
+    "last_updated": "2026-08-25T07:08:11.664Z",
     "original_repository": "JStumpp/awesome-android",
     "original_repository_id": 21780562,
     "original_repository_sha": "c9598e7541686b3705df7cc177a845d6093685c2",
