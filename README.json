@@ -23,7 +23,7 @@
                     "open_issues": 2191,
                     "owner": "PhilJay",
                     "repo": "MPAndroidChart",
-                    "stars": 38192,
+                    "stars": 38193,
                     "topics": [
                       "android",
                       "chart",
@@ -258,7 +258,7 @@
                     "open_issues": 366,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17702,
+                    "stars": 17701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -417,10 +417,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-25T12:35:23Z",
-                    "open_issues": 339,
+                    "open_issues": 341,
                     "owner": "libgdx",
                     "repo": "libgdx",
-                    "stars": 25348,
+                    "stars": 25349,
                     "topics": [
                       "2d",
                       "3d",
@@ -555,7 +555,7 @@
                     "open_issues": 30,
                     "owner": "signalapp",
                     "repo": "libsignal-protocol-java",
-                    "stars": 1850,
+                    "stars": 1851,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -579,7 +579,7 @@
                     "id": 80179724,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-24T00:02:57Z",
+                    "last_commit": "2026-08-31T00:05:48Z",
                     "open_issues": 115,
                     "owner": "facebook",
                     "repo": "litho",
@@ -1680,7 +1680,7 @@
                         "open_issues": 210,
                         "owner": "JakeWharton",
                         "repo": "ViewPagerIndicator",
-                        "stars": 10060,
+                        "stars": 10061,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -1768,7 +1768,7 @@
                         "language": "Java",
                         "license": null,
                         "last_commit": "2018-10-06T12:38:35Z",
-                        "open_issues": 228,
+                        "open_issues": 227,
                         "owner": "astuetz",
                         "repo": "PagerSlidingTabStrip",
                         "stars": 143,
@@ -1875,7 +1875,7 @@
                         "open_issues": 31,
                         "owner": "TakuSemba",
                         "repo": "Spotlight",
-                        "stars": 3667,
+                        "stars": 3668,
                         "topics": [
                           "android",
                           "android-app",
@@ -2350,7 +2350,7 @@
                         "open_issues": 9,
                         "owner": "tommybuonomo",
                         "repo": "dotsindicator",
-                        "stars": 3602,
+                        "stars": 3603,
                         "topics": [
                           "android",
                           "android-library",
@@ -2390,7 +2390,7 @@
                         "open_issues": 658,
                         "owner": "bumptech",
                         "repo": "glide",
-                        "stars": 35025,
+                        "stars": 35024,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2411,7 +2411,7 @@
                         "open_issues": 212,
                         "owner": "square",
                         "repo": "picasso",
-                        "stars": 18798,
+                        "stars": 18797,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2432,7 +2432,7 @@
                         "open_issues": 260,
                         "owner": "facebook",
                         "repo": "fresco",
-                        "stars": 17161,
+                        "stars": 17162,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2453,7 +2453,7 @@
                         "open_issues": 460,
                         "owner": "nostra13",
                         "repo": "Android-Universal-Image-Loader",
-                        "stars": 16828,
+                        "stars": 16827,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2470,11 +2470,11 @@
                         "id": 201684760,
                         "language": "Kotlin",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-08-30T11:14:19Z",
+                        "last_commit": "2026-08-31T13:26:23Z",
                         "open_issues": 70,
                         "owner": "coil-kt",
                         "repo": "coil",
-                        "stars": 11885,
+                        "stars": 11887,
                         "topics": [
                           "android",
                           "androidx",
@@ -2608,10 +2608,10 @@
                         "language": "C",
                         "license": "GPL-2.0",
                         "last_commit": "2024-08-13T00:53:33Z",
-                        "open_issues": 2897,
+                        "open_issues": 2898,
                         "owner": "bilibili",
                         "repo": "ijkplayer",
-                        "stars": 33203,
+                        "stars": 33204,
                         "topics": [
                           "android",
                           "ffmpeg",
@@ -2636,7 +2636,7 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2025-12-23T16:39:03Z",
-                        "open_issues": 628,
+                        "open_issues": 627,
                         "owner": "google",
                         "repo": "ExoPlayer",
                         "stars": 21930,
@@ -2797,10 +2797,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-27T01:13:23Z",
-                    "open_issues": 340,
+                    "open_issues": 341,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24227,
+                    "stars": 24228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2821,7 +2821,7 @@
                     "open_issues": 113,
                     "owner": "square",
                     "repo": "moshi",
-                    "stars": 10157,
+                    "stars": 10158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -2842,7 +2842,7 @@
                     "open_issues": 0,
                     "owner": "FasterXML",
                     "repo": "jackson",
-                    "stars": 9802,
+                    "stars": 9801,
                     "topics": [
                       "hacktoberfest",
                       "jackson",
@@ -2903,7 +2903,7 @@
                     "open_issues": 142,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47055,
+                    "stars": 47058,
                     "topics": [
                       "android",
                       "graalvm",
@@ -3214,7 +3214,7 @@
                     "id": 1970932,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T03:56:04Z",
+                    "last_commit": "2026-08-31T03:58:54Z",
                     "open_issues": 14,
                     "owner": "tony19",
                     "repo": "logback-android",
@@ -3356,7 +3356,7 @@
                     "open_issues": 394,
                     "owner": "realm",
                     "repo": "realm-java",
-                    "stars": 11462,
+                    "stars": 11463,
                     "topics": [
                       "android",
                       "database",
@@ -3436,8 +3436,8 @@
                     "id": 88777477,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T06:57:51Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-08-31T11:34:16Z",
+                    "open_issues": 0,
                     "owner": "nitrite",
                     "repo": "nitrite-java",
                     "stars": 915,
@@ -3824,10 +3824,10 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-30T09:41:22Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "square",
                     "repo": "leakcanary",
-                    "stars": 29987,
+                    "stars": 29988,
                     "topics": [
                       "android",
                       "java",
@@ -4236,7 +4236,7 @@
                     "open_issues": 52,
                     "owner": "mzlogin",
                     "repo": "awesome-adb",
-                    "stars": 12433,
+                    "stars": 12432,
                     "topics": [
                       "android",
                       "android-adb",
@@ -4296,7 +4296,7 @@
                     "open_issues": 67,
                     "owner": "JakeWharton",
                     "repo": "pidcat",
-                    "stars": 4949,
+                    "stars": 4950,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -4338,7 +4338,7 @@
                     "open_issues": 0,
                     "owner": "ashishb",
                     "repo": "adb-enhanced",
-                    "stars": 1388,
+                    "stars": 1387,
                     "topics": [
                       "adb",
                       "android",
@@ -4860,7 +4860,7 @@
                     "open_issues": 40,
                     "owner": "googlesamples",
                     "repo": "easypermissions",
-                    "stars": 9856,
+                    "stars": 9855,
                     "topics": [
                       "android",
                       "android-library",
@@ -4961,11 +4961,11 @@
                     "id": 20300177,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T19:41:24Z",
+                    "last_commit": "2026-08-30T17:52:35Z",
                     "open_issues": 751,
                     "owner": "google",
                     "repo": "guava",
-                    "stars": 51893,
+                    "stars": 51891,
                     "topics": [
                       "guava",
                       "java"
@@ -4985,11 +4985,11 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T05:03:09Z",
+                    "last_commit": "2026-08-31T06:08:53Z",
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48208,
+                    "stars": 48209,
                     "topics": [
                       "flow",
                       "java",
@@ -5011,8 +5011,8 @@
                     "id": 2562751,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-24T15:35:41Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-08-31T06:52:37Z",
+                    "open_issues": 1,
                     "owner": "zxing",
                     "repo": "zxing",
                     "stars": 34078,
@@ -5066,7 +5066,7 @@
                     "open_issues": 132,
                     "owner": "google",
                     "repo": "flexbox-layout",
-                    "stars": 18300,
+                    "stars": 18299,
                     "topics": [
                       "android",
                       "android-library",
@@ -5133,7 +5133,7 @@
                     "open_issues": 76,
                     "owner": "evant",
                     "repo": "gradle-retrolambda",
-                    "stars": 5253,
+                    "stars": 5252,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -5154,7 +5154,7 @@
                     "open_issues": 4,
                     "owner": "mikepenz",
                     "repo": "AboutLibraries",
-                    "stars": 4416,
+                    "stars": 4417,
                     "topics": [
                       "aboutlibraries",
                       "android",
@@ -5904,11 +5904,11 @@
                     "id": 29028775,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T18:26:10Z",
-                    "open_issues": 1155,
+                    "last_commit": "2026-08-31T08:36:00Z",
+                    "open_issues": 1170,
                     "owner": "react",
                     "repo": "react-native",
-                    "stars": 126459,
+                    "stars": 126463,
                     "topics": [
                       "android",
                       "app-framework",
@@ -5938,7 +5938,7 @@
                     "open_issues": 123,
                     "owner": "ionic-team",
                     "repo": "capacitor",
-                    "stars": 16430,
+                    "stars": 16509,
                     "topics": [
                       "android",
                       "capacitor",
@@ -6069,7 +6069,7 @@
                     "open_issues": 5,
                     "owner": "groovy",
                     "repo": "groovy-android-gradle-plugin",
-                    "stars": 846,
+                    "stars": 845,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:52.489Z"
@@ -6388,7 +6388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:54:32.739Z",
+    "last_updated": "2026-08-31T13:49:06.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android packages and resources.",
@@ -6397,10 +6397,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-10-27T08:14:07Z",
-      "open_issues": 95,
+      "open_issues": 96,
       "owner": "JStumpp",
       "repo": "awesome-android",
-      "stars": 12306,
+      "stars": 12304,
       "topics": [
         "android-development",
         "android-library",
