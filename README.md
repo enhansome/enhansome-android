@@ -10,7 +10,7 @@
 
 # About
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,178 | 🐛 13 | 📅 2026-09-23.
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,180 | 🐛 14 | 📅 2026-09-23.
 
 ## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade\&utm_medium=spon\&utm_content=header)
 
@@ -130,7 +130,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Game Development
 
-* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 25,421 | 🐛 344 | 🌐 Java | 📅 2026-09-24
+* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 25,421 | 🐛 345 | 🌐 Java | 📅 2026-09-24
 * [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,413 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine
 * [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) ⭐ 767 | 🐛 6 | 🌐 Java | 📅 2026-04-28 - An easy open source Android Native Game FrameWork.
 * [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
@@ -139,7 +139,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Security
 
-* [Themis](https://github.com/cossacklabs/themis) ⭐ 1,975 | 🐛 31 | 🌐 C | 📅 2026-04-24 - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+* [Themis](https://github.com/cossacklabs/themis) ⭐ 1,976 | 🐛 31 | 🌐 C | 📅 2026-04-24 - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 * [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) ⚠️ Archived - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 
 ### GUI
@@ -240,7 +240,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### Loading Images
 
-* [Glide](https://github.com/bumptech/glide) ⭐ 35,021 | 🐛 671 | 🌐 Java | 📅 2026-10-06 - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
+* [Glide](https://github.com/bumptech/glide) ⭐ 35,020 | 🐛 671 | 🌐 Java | 📅 2026-10-06 - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 * [Picasso](https://github.com/square/picasso) ⭐ 18,776 | 🐛 212 | 🌐 Kotlin | 📅 2024-11-06 - A powerful image downloading and caching library for Android.
 * [Fresco](https://github.com/facebook/fresco) ⭐ 17,152 | 🐛 263 | 🌐 Kotlin | 📅 2026-10-05 - An Android library for managing images and the memory they use.
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 16,805 | 🐛 460 | 🌐 Java | 📅 2024-08-15 - Asynchronous, out of the box loading and caching of images.
@@ -440,7 +440,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 * [Guava: Google Core Libraries for Java](https://github.com/google/guava) ⭐ 51,919 | 🐛 753 | 🌐 Java | 📅 2026-10-06 - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 * [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,185 | 🐛 11 | 🌐 Java | 📅 2026-10-05- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-* [ZXing Android-Integration](https://github.com/zxing/zxing) ⭐ 34,117 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - Integration with Barcode Scanner via Intent.
+* [ZXing Android-Integration](https://github.com/zxing/zxing) ⭐ 34,116 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - Integration with Barcode Scanner via Intent.
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,908 | 🐛 1 | 🌐 Java | 📅 2026-10-01 - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 * [Flexbox Layout](https://github.com/google/flexbox-layout) ⚠️ Archived - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
@@ -526,8 +526,8 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### HTML, CSS and Javascript
 
-* [React Native](https://github.com/facebook/react-native) ⭐ 126,803 | 🐛 1,138 | 🌐 C++ | 📅 2026-10-06 - A framework for building native apps with React by Facebook.
-* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,788 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
+* [React Native](https://github.com/facebook/react-native) ⭐ 126,805 | 🐛 1,142 | 🌐 C++ | 📅 2026-10-06 - A framework for building native apps with React by Facebook.
+* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,790 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 * [Apache Cordova](https://github.com/apache/cordova-android) ⭐ 3,787 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-03 - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 * [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 * [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
@@ -567,7 +567,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 # Performance
 
-* [Booster](https://github.com/didi/booster) ⭐ 5,075 | 🐛 52 | 🌐 Kotlin | 📅 2026-08-09 - Booster is an optimization toolkit for Android applications.
+* [Booster](https://github.com/didi/booster) ⭐ 5,076 | 🐛 52 | 🌐 Kotlin | 📅 2026-08-09 - Booster is an optimization toolkit for Android applications.
 * [awesome-android-performance](https://github.com/Juude/awesome-android-performance) ⭐ 2,889 | 🐛 1 | 📅 2019-05-07 - A list of awesome Android tutorials, videos and tools for performance optimization.
 
 # Other Awesome Lists

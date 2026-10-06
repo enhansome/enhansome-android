@@ -417,7 +417,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-24T03:13:51Z",
-                    "open_issues": 344,
+                    "open_issues": 345,
                     "owner": "libgdx",
                     "repo": "libgdx",
                     "stars": 25421,
@@ -513,7 +513,7 @@
                     "open_issues": 31,
                     "owner": "cossacklabs",
                     "repo": "themis",
-                    "stars": 1975,
+                    "stars": 1976,
                     "topics": [
                       "asymmetric-cryptography",
                       "authentication",
@@ -2390,7 +2390,7 @@
                         "open_issues": 671,
                         "owner": "bumptech",
                         "repo": "glide",
-                        "stars": 35021,
+                        "stars": 35020,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:41:52.489Z"
@@ -5015,7 +5015,7 @@
                     "open_issues": 5,
                     "owner": "zxing",
                     "repo": "zxing",
-                    "stars": 34117,
+                    "stars": 34116,
                     "topics": [
                       "android",
                       "barcode",
@@ -5904,11 +5904,11 @@
                     "id": 29028775,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T10:11:52Z",
-                    "open_issues": 1138,
+                    "last_commit": "2026-10-06T12:54:47Z",
+                    "open_issues": 1142,
                     "owner": "react",
                     "repo": "react-native",
-                    "stars": 126803,
+                    "stars": 126805,
                     "topics": [
                       "android",
                       "app-framework",
@@ -5938,7 +5938,7 @@
                     "open_issues": 144,
                     "owner": "ionic-team",
                     "repo": "capacitor",
-                    "stars": 16788,
+                    "stars": 16790,
                     "topics": [
                       "android",
                       "capacitor",
@@ -6346,7 +6346,7 @@
             "open_issues": 52,
             "owner": "didi",
             "repo": "booster",
-            "stars": 5075,
+            "stars": 5076,
             "topics": [
               "android",
               "bytecode-manipulation",
@@ -6388,7 +6388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:19:32.544Z",
+    "last_updated": "2026-10-06T13:17:50.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android packages and resources.",
