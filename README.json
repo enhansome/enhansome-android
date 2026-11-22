@@ -7,6 +7,100 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Haze",
+              "description": "Blur and frosted-glass effects for Jetpack Compose and Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Background blurring for Compose Multiplatform / Jetpack Compose",
+                "homepage": "https://chrisbanes.github.io/haze/",
+                "id": 710434447,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-21T04:49:34Z",
+                "open_issues": 13,
+                "owner": "chrisbanes",
+                "repo": "haze",
+                "stars": 2695,
+                "topics": [
+                  "blur",
+                  "compose-multiplatform",
+                  "jetpack-compose"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Showkase",
+              "description": "Annotation-processor-based browser for your Jetpack Compose UI elements, colors and typography.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements",
+                "homepage": "https://medium.com/airbnb-engineering/introducing-showkase-a-library-to-organize-discover-and-visualize-your-jetpack-compose-elements-d5c34ef01095",
+                "id": 257758318,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-26T16:02:07Z",
+                "open_issues": 69,
+                "owner": "airbnb",
+                "repo": "Showkase",
+                "stars": 2322,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "annotation-processor",
+                  "design-systems",
+                  "jetpack-android",
+                  "jetpack-compose",
+                  "reusable-components",
+                  "ui-components"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jetpack Compose"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Store",
+              "description": "Kotlin Multiplatform library for loading, caching and syncing data with a Flow-based API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library for reading and writing data that lives in network, disk, and memory.",
+                "homepage": "https://store.mobilenativefoundation.org",
+                "id": 226169258,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-21T03:26:39Z",
+                "open_issues": 60,
+                "owner": "MobileNativeFoundation",
+                "repo": "Store",
+                "stars": 3426,
+                "topics": [
+                  "cache",
+                  "fetch",
+                  "kmp",
+                  "kotlin-flow",
+                  "kotlin-multiplatform",
+                  "kotlin-multiplatform-mobile",
+                  "kotlin-native",
+                  "offline-first",
+                  "repository-pattern",
+                  "update"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
+            },
+            {
+              "node_type": "item",
               "title": "Decompose",
               "description": "Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.",
               "children": [],
@@ -17,7 +111,7 @@
                 "id": 437015897,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T13:07:32Z",
+                "last_commit": "2026-11-22T13:17:21Z",
                 "open_issues": 3,
                 "owner": "arkivanov",
                 "repo": "Decompose",
@@ -34,6 +128,27 @@
             },
             {
               "node_type": "item",
+              "title": "Molecule",
+              "description": "Build a StateFlow or Flow stream using Jetpack Compose runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build a StateFlow stream using Jetpack Compose",
+                "homepage": "https://cashapp.github.io/molecule/docs/2.x/",
+                "id": 375453281,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-21T05:19:55Z",
+                "open_issues": 32,
+                "owner": "cashapp",
+                "repo": "molecule",
+                "stars": 2246,
+                "topics": []
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
+            },
+            {
+              "node_type": "item",
               "title": "Circuit",
               "description": "Modern architecture framework for building Android apps with Compose.",
               "children": [],
@@ -44,8 +159,8 @@
                 "id": 523011227,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T08:36:03Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-22T08:37:05Z",
+                "open_issues": 22,
                 "owner": "slackhq",
                 "repo": "circuit",
                 "stars": 1859,
@@ -83,7 +198,7 @@
                 "open_issues": 1,
                 "owner": "PhilJay",
                 "repo": "MPAndroidChart",
-                "stars": 38186,
+                "stars": 38185,
                 "topics": [
                   "android",
                   "chart",
@@ -107,7 +222,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T04:26:48Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "patrykandpatrick",
                 "repo": "vico",
                 "stars": 3210,
@@ -150,7 +265,7 @@
                 "open_issues": 369,
                 "owner": "google",
                 "repo": "dagger",
-                "stars": 17686,
+                "stars": 17684,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:52.489Z"
@@ -175,10 +290,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-20T14:36:03Z",
-                "open_issues": 19094,
+                "open_issues": 19112,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 120518,
+                "stars": 120575,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -207,7 +322,7 @@
                 "open_issues": 338,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25553,
+                "stars": 25551,
                 "topics": [
                   "2d",
                   "3d",
@@ -308,11 +423,11 @@
                 "id": 11267509,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T11:20:24Z",
-                "open_issues": 698,
+                "last_commit": "2026-11-22T06:51:21Z",
+                "open_issues": 705,
                 "owner": "bumptech",
                 "repo": "glide",
-                "stars": 35008,
+                "stars": 35005,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:52.489Z"
@@ -333,7 +448,7 @@
                 "open_issues": 804,
                 "owner": "material-components",
                 "repo": "material-components-android",
-                "stars": 17470,
+                "stars": 17471,
                 "topics": [
                   "android",
                   "material-components",
@@ -358,33 +473,8 @@
                 "open_issues": 265,
                 "owner": "meta",
                 "repo": "fresco",
-                "stars": 17161,
+                "stars": 17162,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T18:41:52.489Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Android View Animations",
-              "description": "Cute view animation collection.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cute view animation collection.",
-                "homepage": null,
-                "id": 21113349,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2021-08-18T23:15:07Z",
-                "open_issues": 69,
-                "owner": "daimajia",
-                "repo": "AndroidViewAnimations",
-                "stars": 12429,
-                "topics": [
-                  "android",
-                  "animation",
-                  "easing-functions"
-                ]
               },
               "first_seen": "2026-08-28T18:41:52.489Z"
             },
@@ -436,7 +526,7 @@
                 "open_issues": 10,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11641,
+                "stars": 11642,
                 "topics": [
                   "android",
                   "android-development",
@@ -614,10 +704,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T04:17:53Z",
-                "open_issues": 953,
+                "open_issues": 952,
                 "owner": "androidx",
                 "repo": "media",
-                "stars": 3090,
+                "stars": 3091,
                 "topics": [
                   "android",
                   "exoplayer",
@@ -629,6 +719,41 @@
                 ]
               },
               "first_seen": "2026-11-08T13:23:19.846Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Landscapist",
+              "description": "Image loading for Jetpack Compose and Kotlin Multiplatform with Coil, Glide and Fresco as backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🌻 A pluggable, lightweight, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images.",
+                "homepage": "https://skydoves.github.io/landscapist/",
+                "id": 298332340,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T23:16:43Z",
+                "open_issues": 3,
+                "owner": "skydoves",
+                "repo": "landscapist",
+                "stars": 2588,
+                "topics": [
+                  "android",
+                  "compose",
+                  "compose-coil",
+                  "compose-fresco",
+                  "compose-glide",
+                  "image",
+                  "image-loading",
+                  "jetpack-compose",
+                  "kotlin",
+                  "landscapist",
+                  "library",
+                  "network",
+                  "skydoves"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
             }
           ],
           "description": null,
@@ -649,8 +774,8 @@
                 "id": 32538871,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T23:04:14Z",
-                "open_issues": 332,
+                "last_commit": "2026-11-22T01:14:15Z",
+                "open_issues": 331,
                 "owner": "google",
                 "repo": "gson",
                 "stars": 24236,
@@ -751,11 +876,11 @@
                 "id": 676897841,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T09:43:58Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-21T18:15:31Z",
+                "open_issues": 85,
                 "owner": "measure-sh",
                 "repo": "measure",
-                "stars": 1448,
+                "stars": 1449,
                 "topics": [
                   "analytics",
                   "android",
@@ -793,7 +918,7 @@
                 "id": 3368190,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-21T10:19:18Z",
+                "last_commit": "2026-11-22T13:31:34Z",
                 "open_issues": 328,
                 "owner": "getsentry",
                 "repo": "sentry-java",
@@ -841,11 +966,11 @@
                 "id": 5152285,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T12:33:17Z",
-                "open_issues": 128,
+                "last_commit": "2026-11-22T13:28:09Z",
+                "open_issues": 124,
                 "owner": "lysine-dev",
                 "repo": "okhttp",
-                "stars": 47116,
+                "stars": 47117,
                 "topics": [
                   "android",
                   "graalvm",
@@ -895,7 +1020,7 @@
                 "open_issues": 134,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14574,
+                "stars": 14575,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -922,7 +1047,7 @@
                 "open_issues": 235,
                 "owner": "amitshekhariitbhu",
                 "repo": "Fast-Android-Networking",
-                "stars": 5939,
+                "stars": 5940,
                 "topics": [
                   "android",
                   "android-library",
@@ -947,6 +1072,27 @@
                 ]
               },
               "first_seen": "2026-08-28T18:41:52.489Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Wire",
+              "description": "Protocol buffers and gRPC for Kotlin, Java and Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "gRPC and protocol buffers for Android, Kotlin, Swift and Java.",
+                "homepage": "https://square.github.io/wire/",
+                "id": 12274147,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T16:49:45Z",
+                "open_issues": 170,
+                "owner": "square",
+                "repo": "wire",
+                "stars": 4440,
+                "topics": []
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1333,7 @@
                 "open_issues": 146,
                 "owner": "objectbox",
                 "repo": "objectbox-java",
-                "stars": 4631,
+                "stars": 4632,
                 "topics": [
                   "android",
                   "database",
@@ -1325,7 +1471,7 @@
                 "open_issues": 455,
                 "owner": "mobile-dev-inc",
                 "repo": "Maestro",
-                "stars": 16477,
+                "stars": 16485,
                 "topics": [
                   "android",
                   "blackbox-testing",
@@ -1334,6 +1480,44 @@
                 ]
               },
               "first_seen": "2026-11-08T13:23:19.846Z"
+            },
+            {
+              "node_type": "item",
+              "title": "e2e",
+              "description": "End-to-end testing framework for Android and web apps that combines natural-language agent steps with locator-based assertions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Next generation e2e testing framework for web and mobile apps.",
+                "homepage": "https://e2e.com",
+                "id": 1308631234,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-22T12:55:53Z",
+                "open_issues": 122,
+                "owner": "e2e-inc",
+                "repo": "e2e",
+                "stars": 14113,
+                "topics": [
+                  "agentic-testing",
+                  "ai-testing",
+                  "automation-testing",
+                  "e2e",
+                  "e2e-testing",
+                  "end-to-end-testing",
+                  "mobile",
+                  "mobile-testing",
+                  "playwright",
+                  "qa",
+                  "test-automation",
+                  "testing",
+                  "testing-framework",
+                  "testing-tools",
+                  "ui-testing",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
             },
             {
               "node_type": "item",
@@ -1347,7 +1531,7 @@
                 "id": 107331132,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T13:46:24Z",
+                "last_commit": "2026-11-21T15:50:02Z",
                 "open_issues": 259,
                 "owner": "mockk",
                 "repo": "mockk",
@@ -1383,7 +1567,7 @@
                 "open_issues": 40,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4790,
+                "stars": 4789,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -1432,7 +1616,7 @@
                 "id": 176338719,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T09:20:29Z",
+                "last_commit": "2026-11-21T23:05:47Z",
                 "open_issues": 201,
                 "owner": "cashapp",
                 "repo": "paparazzi",
@@ -1454,7 +1638,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T18:23:51Z",
-                "open_issues": 245,
+                "open_issues": 246,
                 "owner": "android",
                 "repo": "android-test",
                 "stars": 1228,
@@ -1475,10 +1659,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T19:09:44Z",
-                "open_issues": 152,
+                "open_issues": 151,
                 "owner": "takahirom",
                 "repo": "roborazzi",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "android",
                   "compose",
@@ -1686,6 +1870,37 @@
           "children": [
             {
               "node_type": "item",
+              "title": "scrcpy",
+              "description": "Display and control Android devices connected via USB or TCP/IP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Display and control your Android device",
+                "homepage": null,
+                "id": 111583593,
+                "language": "C",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-22T13:49:59Z",
+                "open_issues": 2958,
+                "owner": "Genymobile",
+                "repo": "scrcpy",
+                "stars": 155393,
+                "topics": [
+                  "android",
+                  "c",
+                  "ffmpeg",
+                  "genyteam-system",
+                  "libav",
+                  "mirroring",
+                  "recording",
+                  "screen",
+                  "sdl2"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
+            },
+            {
+              "node_type": "item",
               "title": "Android Debug Bridge - ADB",
               "description": "A command-line tool to assist in debugging Android-powered devices.",
               "children": [],
@@ -1700,7 +1915,7 @@
                 "open_issues": 54,
                 "owner": "mzlogin",
                 "repo": "awesome-adb",
-                "stars": 12557,
+                "stars": 12559,
                 "topics": [
                   "android",
                   "android-adb",
@@ -1757,7 +1972,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-05-10T13:57:53Z",
-                "open_issues": 67,
+                "open_issues": 66,
                 "owner": "JakeWharton",
                 "repo": "pidcat",
                 "stars": 4952,
@@ -1781,7 +1996,7 @@
                 "open_issues": 84,
                 "owner": "ChuckerTeam",
                 "repo": "chucker",
-                "stars": 4588,
+                "stars": 4586,
                 "topics": [
                   "android",
                   "android-library",
@@ -1823,7 +2038,7 @@
                 "open_issues": 2,
                 "owner": "ashishb",
                 "repo": "adb-enhanced",
-                "stars": 1401,
+                "stars": 1402,
                 "topics": [
                   "adb",
                   "android",
@@ -1872,7 +2087,7 @@
                 "open_issues": 3,
                 "owner": "elliotgao2",
                 "repo": "handsets",
-                "stars": 122,
+                "stars": 124,
                 "topics": [
                   "ai-agents",
                   "android",
@@ -1993,7 +2208,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T19:03:54Z",
-                "open_issues": 161,
+                "open_issues": 165,
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7117,
@@ -2024,8 +2239,8 @@
                 "id": 64293719,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-20T04:31:55Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-22T14:09:46Z",
+                "open_issues": 13,
                 "owner": "ktlint",
                 "repo": "ktlint",
                 "stars": 6784,
@@ -2049,11 +2264,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T04:05:54Z",
+                "last_commit": "2026-11-21T19:36:56Z",
                 "open_issues": 240,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5735,
+                "stars": 5736,
                 "topics": [
                   "css",
                   "formatter",
@@ -2096,7 +2311,7 @@
                 "open_issues": 777,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51925,
+                "stars": 51923,
                 "topics": [
                   "guava",
                   "java"
@@ -2120,7 +2335,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48146,
+                "stars": 48147,
                 "topics": [
                   "flow",
                   "java",
@@ -2188,7 +2403,7 @@
                 "id": 86057409,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T01:34:35Z",
+                "last_commit": "2026-11-22T03:06:47Z",
                 "open_issues": 20,
                 "owner": "arrow-kt",
                 "repo": "arrow",
@@ -2232,7 +2447,7 @@
                 "open_issues": 6,
                 "owner": "mikepenz",
                 "repo": "AboutLibraries",
-                "stars": 4509,
+                "stars": 4512,
                 "topics": [
                   "aboutlibraries",
                   "android",
@@ -2393,7 +2608,7 @@
                 "open_issues": 230,
                 "owner": "android",
                 "repo": "architecture-samples",
-                "stars": 45903,
+                "stars": 45906,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -2440,11 +2655,11 @@
                 "id": 483402734,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T14:06:16Z",
+                "last_commit": "2026-11-22T13:13:08Z",
                 "open_issues": 281,
                 "owner": "android",
                 "repo": "nowinandroid",
-                "stars": 22112,
+                "stars": 22118,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -2479,11 +2694,11 @@
                 "id": 29028775,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-21T05:36:29Z",
-                "open_issues": 1454,
+                "last_commit": "2026-11-22T00:35:35Z",
+                "open_issues": 1460,
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126988,
+                "stars": 126994,
                 "topics": [
                   "android",
                   "app-framework",
@@ -2509,11 +2724,11 @@
                 "id": 262395224,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-21T13:56:18Z",
-                "open_issues": 1406,
+                "last_commit": "2026-11-22T13:51:03Z",
+                "open_issues": 1412,
                 "owner": "dotnet",
                 "repo": "maui",
-                "stars": 23322,
+                "stars": 23321,
                 "topics": [
                   "android",
                   "desktop",
@@ -2544,11 +2759,11 @@
                 "id": 1049095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-21T08:15:02Z",
-                "open_issues": 890,
+                "last_commit": "2026-11-22T14:01:03Z",
+                "open_issues": 892,
                 "owner": "kivy",
                 "repo": "kivy",
-                "stars": 19028,
+                "stars": 19031,
                 "topics": [
                   "android",
                   "app",
@@ -2575,11 +2790,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T00:53:37Z",
-                "open_issues": 209,
+                "last_commit": "2026-11-22T02:38:50Z",
+                "open_issues": 206,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17582,
+                "stars": 17583,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -2606,10 +2821,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T19:50:12Z",
-                "open_issues": 153,
+                "open_issues": 155,
                 "owner": "ionic-team",
                 "repo": "capacitor",
-                "stars": 17130,
+                "stars": 17138,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2640,7 +2855,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-20T11:03:35Z",
-                "open_issues": 326,
+                "open_issues": 327,
                 "owner": "beeware",
                 "repo": "toga",
                 "stars": 5430,
@@ -2697,7 +2912,7 @@
                 "open_issues": 202,
                 "owner": "coronalabs",
                 "repo": "corona",
-                "stars": 2903,
+                "stars": 2902,
                 "topics": [
                   "android",
                   "corona",
@@ -2740,7 +2955,7 @@
                 "open_issues": 28,
                 "owner": "JetBrains",
                 "repo": "compose-multiplatform",
-                "stars": 19490,
+                "stars": 19493,
                 "topics": [
                   "android",
                   "awt",
@@ -2778,7 +2993,7 @@
                 "open_issues": 147,
                 "owner": "Tencent-TDS",
                 "repo": "KuiklyUI",
-                "stars": 3643,
+                "stars": 3644,
                 "topics": [
                   "android",
                   "app-framework",
@@ -2794,6 +3009,35 @@
                 ]
               },
               "first_seen": "2026-11-08T13:23:19.846Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Hot Reload",
+              "description": "Hot reload for Compose Multiplatform, by JetBrains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.",
+                "homepage": null,
+                "id": 874274681,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-22T02:42:46Z",
+                "open_issues": 1,
+                "owner": "JetBrains",
+                "repo": "compose-hot-reload",
+                "stars": 1423,
+                "topics": [
+                  "compose",
+                  "compose-desktop",
+                  "compose-hot-reload",
+                  "compose-multiplatform",
+                  "firework",
+                  "hot-reload",
+                  "kotlin"
+                ]
+              },
+              "first_seen": "2026-11-22T14:33:32.348Z"
             },
             {
               "node_type": "item",
@@ -2833,7 +3077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:38:38.492Z",
+    "last_updated": "2026-11-22T14:33:32.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android packages and resources.",
@@ -2841,11 +3085,11 @@
       "id": 21780562,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-08T14:43:52Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-22T07:31:31Z",
+      "open_issues": 0,
       "owner": "JStumpp",
       "repo": "awesome-android",
-      "stars": 12477,
+      "stars": 12478,
       "topics": [
         "android-development",
         "android-library",
@@ -2856,7 +3100,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "e788797637a8dadfaac36828623b98a72e67f8fe",
+    "original_repository_sha": "664b3d499f135b5200c0c786b945701c0309acda",
     "enhanced_repository": "enhansome/enhansome-android",
     "enhanced_repository_description": null,
     "title": "Awesome Android with stars"
